@@ -21,5 +21,5 @@ This repository provides a **JWT-based authentication manager** for secure user 
 ## 📢 Getting Started:
 1. Clone the repo:  
    ```bash
-   git clone git@github.com:raghusami/JWTAuthenticationManager.git
+   git clone https://github.com/raghusami/JWTAuthenticationManager.git
 
