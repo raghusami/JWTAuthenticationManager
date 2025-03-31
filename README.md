@@ -11,7 +11,7 @@ This repository provides a **JWT-based authentication manager** for secure user 
 ✔️ Follows **SOLID Principles & Clean Code Practices**  
 
 ## 🛠️ Technologies Used:
-✅ .NET Core / .NET 6+  
+✅ .NET Core / .NET 8+  
 ✅ ASP.NET Web API  
 ✅ JWT (JSON Web Tokens)  
 ✅ Entity Framework Core  
