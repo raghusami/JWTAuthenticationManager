@@ -1,4 +1,6 @@
+
 ﻿# JWT Authentication Manager 🔐  
+
 
 🚀 **Overview:**  
 This repository provides a **JWT-based authentication manager** for secure user authentication in **.NET applications**. It includes **token generation, validation, and refresh token support**.
@@ -20,3 +22,4 @@ This repository provides a **JWT-based authentication manager** for secure user 
 1. Clone the repo:  
    ```bash
    git clone git@github.com:raghusami/JWTAuthenticationManager.git
+
