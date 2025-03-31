@@ -49,7 +49,7 @@
                     {
                         if (context.Exception.GetType() == typeof(SecurityTokenExpiredException))
                         {
-                            context.Response.Headers.Append("IS-TOKEN-EXPIRED", "true");
+                            context.Response.Headers.Append("DTJ-TOKEN-EXPIRED", "true");
                         }
                         return Task.CompletedTask;
                     }
